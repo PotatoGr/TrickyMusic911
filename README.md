@@ -20,8 +20,8 @@
   
 ### Heroku Deployment
   
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://sjmxaditi.github.io/Am-Noob/)
-  
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PotatoGr/TrickyMusic911)
+
   
 ###  Okteto Deployment
 
